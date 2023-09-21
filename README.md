@@ -26,4 +26,4 @@ Repository for all Completed ISC2 Certifications
 
 - [Data Privacy & Protection An Introduction to Compliance Requirements](https://github.com/prathari02/Cybersecurity-Certifications/blob/35ddd74c396ebe68faeb1d5c408b43bc21b2b0cc/Data%20Privacy%20%26%20Protection%20An%20Introduction%20to%20Compliance%20Requirements_Harikrishnan.pdf) (2023)
 
-- [Data Privacy & Protection An Introduction to Compliance Requirements](
+
